@@ -1,13 +1,13 @@
-<img src="https://github.com/niedev/RTranslator/blob/v2.00/images/logo_beta_cut.png" width="280">
+<img src="https://github.com/niedev/MultilingualTranslator/blob/v2.00/images/logo_beta_cut.png" width="280">
 
 RTranslator is an (<a href='https://github.com/niedev/RTranslator?tab=readme-ov-file#libraries-and-models'>almost</a>) open-source, free, and offline real-time translation app for Android.
 
 Connect to someone who has the app, connect Bluetooth headphones, put the phone in your pocket and you can have a conversation as if the other person spoke your language.
 <br /><br />
 
-![Conversation mode](https://github.com/niedev/RTranslator/blob/v2.00/images/Conversation_image.png)
+![Conversation mode](https://github.com/niedev/MultilingualTranslator/blob/v2.00/images/Conversation_image.png)
 <br /><br />
-![WalkieTalkie mode and Costs](https://github.com/niedev/RTranslator/blob/v2.00/images/TextTranslation_and_WalkieTalkie.png)
+![WalkieTalkie mode and Costs](https://github.com/niedev/MultilinguaTranslator/blob/v2.00/images/TextTranslation_and_WalkieTalkie.png)
 <br /><br />
 
 <h3>Conversation mode</h3>
